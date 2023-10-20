@@ -1,4 +1,26 @@
 {
+  "publisher": "pedromontolive",
+  "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#030518",
+    "theme": "dark"
+  },
+  "keywords": [
+    "laravel",
+    "inertia",
+    "vue",
+    "tailwindcss",
+    "php",
+    "javascript",
+    "livt"
+  ],
+  "repository": {
+    "url": "https://github.com/PedroMontolive/livt-pack"
+  },
+  "homepage": "https://github.com/PedroMontolive/livt-pack",
+  "bugs": {
+    "url": "https://github.com/PedroMontolive/livt-pack/issues"
+  },
   "name": "livt-pack",
   "displayName": "LIVT Pack ",
   "description": "A collection of extensions for projects that use the LIVT development Structure: Laravel, Vue.js, Inertia.Js and Tailwind CSS.",
@@ -24,6 +46,7 @@
     "pkief.material-icon-theme",
     "onecentlin.laravel-blade",
     "codingyu.laravel-goto-view",
+    "ms-azuretools.vscode-docker",
     "naoray.laravel-goto-components",
     "github.vscode-pull-request-github",
     "github.github-vscode-theme",
