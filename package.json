@@ -24,7 +24,7 @@
   "name": "livt-pack",
   "displayName": "LIVT Pack",
   "description": "A collection of extensions for projects that use the LIVT development Structure: Laravel, Vue.js, Inertia.Js and Tailwind CSS.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -55,6 +55,7 @@
     "github.codespaces",
     "github.vscode-github-actions",
     "github.copilot-labs",
+    "vector-of-bool.gitflow",
     "muath-ye.composer-intelephense",
     "donjayamanne.githistory",
     "aaron-bond.better-comments",
