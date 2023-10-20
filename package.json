@@ -22,7 +22,7 @@
     "url": "https://github.com/PedroMontolive/livt-pack/issues"
   },
   "name": "livt-pack",
-  "displayName": "LIVT Pack",
+  "displayName": "LIVT Pack ",
   "description": "A collection of extensions for projects that use the LIVT development Structure: Laravel, Vue.js, Inertia.Js and Tailwind CSS.",
   "version": "0.0.1",
   "engines": {
