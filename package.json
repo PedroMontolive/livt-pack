@@ -1,10 +1,29 @@
 {
-  "publisher": "pedromontolive",
+  "name": "livt-pack",
+  "displayName": "LIVT Pack",
+  "description": "A collection of extensions for projects that use the LIVT development Structure: Laravel, Vue.js, Inertia.Js and Tailwind CSS.",
   "icon": "logo.png",
-  "galleryBanner": {
-    "color": "#030518",
-    "theme": "dark"
+  "version": "0.0.3",
+  "publisher": "pedromontolive",
+  "author": {
+    "name": "Pedro Oliveira",
+    "email": "pedro.montolive@gmail.com"
   },
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/PedroMontolive/livt-pack",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PedroMontolive/livt-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PedroMontolive/livt-pack/issues"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
   "keywords": [
     "laravel",
     "inertia",
@@ -14,23 +33,10 @@
     "javascript",
     "livt"
   ],
-  "repository": {
-    "url": "https://github.com/PedroMontolive/livt-pack"
+  "galleryBanner": {
+    "color": "#030518",
+    "theme": "dark"
   },
-  "homepage": "https://github.com/PedroMontolive/livt-pack",
-  "bugs": {
-    "url": "https://github.com/PedroMontolive/livt-pack/issues"
-  },
-  "name": "livt-pack",
-  "displayName": "LIVT Pack",
-  "description": "A collection of extensions for projects that use the LIVT development Structure: Laravel, Vue.js, Inertia.Js and Tailwind CSS.",
-  "version": "0.0.2",
-  "engines": {
-    "vscode": "^1.83.0"
-  },
-  "categories": [
-    "Extension Packs"
-  ],
   "extensionPack": [
     "bmewburn.vscode-intelephense-client",
     "mrchetan.phpstorm-parameter-hints-in-vscode",
@@ -40,6 +46,7 @@
     "shufo.vscode-blade-formatter",
     "amiralizadeh9480.laravel-extra-intellisense",
     "onecentlin.laravel5-snippets",
+    "alefragnani.project-manager",
     "mikestead.dotenv",
     "streetsidesoftware.code-spell-checker",
     "sonarsource.sonarlint-vscode",
