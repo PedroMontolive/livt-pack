@@ -4,7 +4,7 @@
   "description": "A collection of extensions for projects that use the LIVT development Structure: Laravel, Vue.js, Inertia.Js and Tailwind CSS.",
   "icon": "logo.png",
   "version": "0.0.3",
-  "publisher": "pedromontolive",
+  "publisher": "PedroMontolive",
   "author": {
     "name": "Pedro Oliveira",
     "email": "pedro.montolive@gmail.com"
