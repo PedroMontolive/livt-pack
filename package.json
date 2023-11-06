@@ -3,7 +3,7 @@
   "displayName": "LIVT Pack",
   "description": "A collection of extensions for projects that use the LIVT development Structure: Laravel, Vue.js, Inertia.Js and Tailwind CSS.",
   "icon": "logo.png",
-  "version": "0.0.3",
+  "version": "1.0.3",
   "publisher": "PedroMontolive",
   "author": {
     "name": "Pedro Oliveira",
