@@ -2,7 +2,7 @@
 
 All notable changes to the "livt-pack" extension pack will be documented in this file.
 
-## 1.0.0 - 06/11/2023
+## 1.0.3 - 06/11/2023
 
 - Added PHP Tools
 
